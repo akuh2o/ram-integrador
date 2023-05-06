@@ -1,0 +1,18 @@
+.nav{
+    background-color: rgb(216, 97, 49);
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+.input{
+    background-color: rgb(25, 216, 152);
+    margin-bottom: 10px;
+    /*display: flex;
+    justify-content: center;*/
+}
+.btn{
+    background-color: rgb(76, 53, 118);
+    margin-bottom: 10px;
+    display: flex;
+    /*justify-content: center;*/
+}
